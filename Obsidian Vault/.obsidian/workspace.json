@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "696d8ed0e71f295a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d75e8c23c99d36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdbe0ab331fc340",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Research.canvas",
+                "viewState": {
+                  "x": 292.95,
+                  "y": -8954.918005676269,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "431908d3adc31a48",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Research.canvas",
+                "viewState": {
+                  "x": 339.145,
+                  "y": -9103.4316426877,
+                  "zoom": -1.5,
+                  "snapToGrid": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aa3feea893ea363",
+    "type": "split",
+    "children": [
+      {
+        "id": "951909a020c0cfe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "646dfcfe20d0dc0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f597d31031037f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7f292ed4616e4d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8ea91341626c0728",
+    "type": "split",
+    "children": [
+      {
+        "id": "2611841c73df83e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad4a5dcfc51403c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research and Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29385dba94c464db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research and Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c035bdb3a9c9876d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58de4d2d7745aaec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research and Development.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "431908d3adc31a48",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Research.canvas",
+    "2023-01-21.md",
+    "Research and Development.md"
+  ]
+}
